@@ -1,5 +1,7 @@
-# dispayselectedoption
+# dispay selected option
+
 It is a basic html page that shows the forms according to your selection via javascript
+Go the demo: https://fthygtl.github.io/dispayselectedoption/
 
 There is no type is selected:
 ![ScreenClip](https://user-images.githubusercontent.com/70219430/189872659-d3ca5725-9ddf-4fa3-a7f7-67096b39ae71.png)
